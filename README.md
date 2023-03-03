@@ -4,8 +4,8 @@
 Con GIT clonamos el repositorio:
 ```
 git clone https://github.com/IliasVilux/Innovamat.git
-Instalamos composer
 ```
+Instalamos composer
 ```
 composer install
 ```
